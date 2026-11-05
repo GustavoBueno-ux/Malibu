@@ -5,7 +5,7 @@
 // CONFIGURAÇÕES
 // ==========================================
 
-const WHATSAPP_NUMBER = "5514998634380";
+const WHATSAPP_NUMBER = "5514996884942";
 
 const products = [
   {
