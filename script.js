@@ -41,7 +41,7 @@ const products = [
     name: "Açaí",
     icon: "🥣",
     description: "Escolha a opção de acompanhamento.",
-    options: ["Leite em pó", "Leite condensado"]
+    options: ["Leite em pó", "Leite condensado", "Leite condensado e em pó"]
   }
 ];
 
